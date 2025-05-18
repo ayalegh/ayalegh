@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm <strong>Aya Leghelimi</strong></h1>
 <h3 align="center">3rd Year Computer Science Student | Aspiring Web Developer</h3>
 
-- 📫 How to reach me: <strong>aya.leghelimi@example.com</strong>
+- 📫 How to reach me: <strong>ayaleghelimi8@gmail.com</strong>
 
 ---
 
