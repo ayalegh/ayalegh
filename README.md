@@ -52,7 +52,7 @@ I’m a 3rd-year Computer Science undergraduate passionate about web development
 
 <h3 align="left">🎓 Education</h3>
 <ul>
-<li>🎓 Bachelor of Computer Science (3rd Year) – [Your University]</li>
+<li>🎓 Bachelor of Computer Science (3rd Year) – Université Abdelhamid Mehri Constantine 2</li>
 </ul>
 
 ---
