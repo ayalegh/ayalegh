@@ -1,6 +1,4 @@
-<div align="center">
-<img height="150" src="https://media.giphy.com/media/OK27wINdQS5YQ/giphy.gif" />
-</div>
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/aya-leghelimi" target="_blank">
